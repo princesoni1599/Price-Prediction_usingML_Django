@@ -15,4 +15,4 @@ URL-library,
 DATA SET
 """
 
-Make sure data set path should change and run server in anaconda prompt using command   python manage.py runserver 
+Make sure data set path should change and run server in anaconda prompt using command   'python manage.py runserver' 
