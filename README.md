@@ -3,7 +3,7 @@ BITCOIN Price Prediction using ML and django.
 
 Based on simple Linear Regression Model.  
 
-Use anaconda for better management packages.
+Use anaconda for better management of packages.
 
 Requirement:
 Numpy,
