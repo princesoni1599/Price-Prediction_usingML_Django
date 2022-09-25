@@ -5,6 +5,9 @@ Based on simple Linear Regression Model.
 
 Use anaconda for better management of packages.
 
+cmd command to create new django project.
+'django-admin startproject project-name'
+
 Requirement:
 Numpy,
 Pandas,
