@@ -1,21 +1,11 @@
-# Bitcoin-Price-Prediction-Using_ML&Django
-BITCOIN Price Prediction using ML and django.
+# BitCoin-Price-Prediction
+Simple ML project using Django for BitCoin Price Prediction
 
-Based on simple Linear Regression Model.  
+To run this project make sure you have install Django in your system
 
-Use anaconda for better management of packages.
+To install Django run -> pip install Django
 
-cmd command to create new django project.
-'django-admin startproject project-name'
+copy all the content of this file in your folder and run these commands
+-> python manage.py runserver
 
-Requirement:
-Numpy,
-Pandas,
-Scikit-learn,
-Matplot,
-URL-library,
-"""
-DATA SET
-"""
-
-Make sure data set path should change and run server in anaconda prompt using command   'python manage.py runserver' 
+Open your browser and go to localhost//"defaultvalue"/matplot in my case it defaultvalue = 8000
