@@ -10,7 +10,7 @@ import urllib, base64
 import pandas as pd
 
 def matplot(request):
-    df = pd.read_csv(r'/Users/princesoni/Desktop/BitCoin-Price-Prediction-main/matplot/bitcoin (2).csv')
+    df = pd.read_csv(r'/Users/princesoni/Desktop/Price-Prediction_usingML_Django/matplot/bitcoin.csv')
 
     # Initial price and Date Graph
     df.plot()
