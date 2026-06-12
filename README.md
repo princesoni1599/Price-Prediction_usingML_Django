@@ -1,11 +1,23 @@
-# BitCoin-Price-Prediction
-Simple ML project using Django for BitCoin Price Prediction
+<h2>Portfolio Preview</h2>
 
-To run this project make sure you have install Django in your system
+<p align="center">
+  <img src="https://github.com/princesoni1599/HMS/blob/main/Experiments/Images/demo1.png"
+       width="800"
+       alt="Portfolio">
+</p>
+<p align="center">
+  <img src="https://github.com/princesoni1599/HMS/blob/main/Experiments/Images/demo2.png"
+       width="800"
+       alt="Portfolio">
+</p><h2>Portfolio Preview</h2>
 
-To install Django run -> pip install Django
-
-copy all the content of this file in your folder and run these commands
--> python manage.py runserver
-
-Open your browser and go to localhost//"defaultvalue"/matplot in my case it defaultvalue = 8000
+<p align="center">
+  <img src="https://github.com/princesoni1599/HMS/blob/main/Experiments/Images/demo1.png"
+       width="800"
+       alt="Portfolio">
+</p>
+<p align="center">
+  <img src="https://github.com/princesoni1599/HMS/blob/main/Experiments/Images/demo2.png"
+       width="800"
+       alt="Portfolio">
+</p>
