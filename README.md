@@ -1,14 +1,20 @@
 <h2>Portfolio Preview</h2>
 
 <p align="center">
-  <img src="https://github.com/princesoni1599/FileSystem/blob/main/files_load/public/image.png"
+  <img src="https://github.com/princesoni1599/Price-Prediction_usingML_Django/blob/main/images/bit3.png"
        width="800"
        alt="Portfolio">
 </p>
 
-<h2> Demo </h2>
 <p align="center">
-  <img src="https://github.com/princesoni1599/FileSystem/blob/main/files_load/public/ezgif-1ffd45777109c1a2.gif"
+  <img src="[https://github.com/princesoni1599/FileSystem/blob/main/files_load/public/ezgif-1ffd45777109c1a2.gif](https://github.com/princesoni1599/Price-Prediction_usingML_Django/blob/main/images/bit2.png)"
+       width="800"
+       alt="Portfolio">
+</p>
+
+<h2> Data Set </h2>
+<p align="center">
+  <img src="https://github.com/princesoni1599/Price-Prediction_usingML_Django/blob/main/images/bit2.png"
        width="800"
        alt="Portfolio">
 </p>
