@@ -9,4 +9,3 @@
   <img src="https://github.com/princesoni1599/Price-Prediction_usingML_Django/blob/main/images/image%20copy.png"
        width="800"
        alt="Portfolio">
-</p><h2>Portfolio Preview</h2>
